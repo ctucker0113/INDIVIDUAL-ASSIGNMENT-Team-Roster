@@ -1,0 +1,74 @@
+{
+    "-Nh-Uz2uvZkffu7IR0Nx": {
+        "firebaseKey": "-Nh-Uz2uvZkffu7IR0Nx",
+        "first_name": "Steve",
+        "last_name": "Rogers",
+        "superhero_name": "Captain America",
+        "special_ability": "Super Human Strength. Dude's got a boomerang shield, too.",
+        "image": "http://dummyimage.com/174x100.png/ff4444/ffffff",
+        "uid": "J36vebFSy0QxcTLSm1CTkWa0Yd92"
+    },
+    "-Nh-Uz2w-ingti1B7G3r": {
+        "firebaseKey": "-Nh-Uz2w-ingti1B7G3r",
+        "first_name": "Bruce",
+        "last_name": "Banner",
+        "superhero_name": "The Hulk",
+        "special_ability": "Anger Management Issues",
+        "image": "http://dummyimage.com/244x100.png/5fa2dd/ffffff",
+        "uid": "J36vebFSy0QxcTLSm1CTkWa0Yd92"
+    },
+    "-Nh-Uz2xbJmxROnItZep": {
+        "firebaseKey": "-Nh-Uz2xbJmxROnItZep",
+        "first_name": "Tony",
+        "last_name": "Stark",
+        "superhero_name": "Iron Man",
+        "special_ability": "Can generate a quippy remark at the speed of light",
+        "image": "http://dummyimage.com/190x100.png/cc0000/ffffff",
+        "uid": "J36vebFSy0QxcTLSm1CTkWa0Yd92"
+    },
+    "-Nh-Uz2yiGimXxjW_Jby": {
+        "firebaseKey": "-Nh-Uz2yiGimXxjW_Jby",
+        "first_name": "Carol",
+        "last_name": "Danvers",
+        "superhero_name": "Marcia",
+        "special_ability": "Flying, Photonic Blasts",
+        "image": "http://dummyimage.com/210x100.png/dddddd/000000",
+        "uid": "J36vebFSy0QxcTLSm1CTkWa0Yd92"
+    },
+    "-Nh-Uz2zyn3O-yWxEidf": {
+        "firebaseKey": "-Nh-Uz2zyn3O-yWxEidf",
+        "first_name": "T'Challa",
+        "last_name": "",
+        "superhero_name": "Black Panther",
+        "special_ability": "Super strength, speed, agility, and cool factor",
+        "image": "http://dummyimage.com/202x100.png/5fa2dd/ffffff",
+        "uid": "J36vebFSy0QxcTLSm1CTkWa0Yd92"
+    },
+    "-Nh-Uz2zyn3O-yWxEidg": {
+        "firebaseKey": "-Nh-Uz2zyn3O-yWxEidg",
+        "first_name": "Loki",
+        "last_name": "Laufeyson",
+        "superhero_name": "Loki",
+        "special_ability": "Super Mischieviousness",
+        "image": "http://dummyimage.com/212x100.png/dddddd/000000",
+        "uid": "VN6Ywr1F7OZ0nfwhsNfPF0OTYRO2"
+    },
+    "-Nh-Uz3-FqKsa7pI4DXx": {
+        "firebaseKey": "-Nh-Uz3-FqKsa7pI4DXx",
+        "first_name": "",
+        "last_name": "",
+        "superhero_name": "Thanos",
+        "special_ability": "More purple than Grimace",
+        "image": "http://dummyimage.com/209x100.png/5fa2dd/ffffff",
+        "uid": "VN6Ywr1F7OZ0nfwhsNfPF0OTYRO2"
+    },
+    "-Nh-Uz30GPD4-ZTb7ry2": {
+        "firebaseKey": "-Nh-Uz30GPD4-ZTb7ry2",
+        "first_name": "",
+        "last_name": "",
+        "superhero_name": "Ultron",
+        "special_ability": "Can help you debug code, but might also steal your job and destroy the world",
+        "image": "http://dummyimage.com/223x100.png/cc0000/ffffff",
+        "uid": "VN6Ywr1F7OZ0nfwhsNfPF0OTYRO2"
+    }
+}
