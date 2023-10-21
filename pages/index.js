@@ -16,10 +16,6 @@ function Home() {
       }}
     >
       <h1>Hello {user.displayName}! </h1>
-      <p>Click the button below to login!</p>
-      <Button variant="danger" type="button" size="lg" className="copy-btn" onClick={signOut}>
-        Sign Out
-      </Button>
     </div>
   );
 }
