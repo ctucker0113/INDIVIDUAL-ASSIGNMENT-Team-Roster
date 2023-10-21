@@ -21,13 +21,7 @@ function HeroForm({ obj }) {
 
   const router = useRouter();
 
-  const { user, userLoading } = useAuth();
-  // This code solves a render bug by
-  // making the page wait a beat for Firebase to retrieve
-  // the data before it loads the page.
-  if (userLoading) {
-    return <div>Loading...</div>;
-  }
+  const { user } = useAuth();
 
   useEffect(() => {
     // If the object already exists (i.e. - has a FB key), then fill the form with the values from the object.
