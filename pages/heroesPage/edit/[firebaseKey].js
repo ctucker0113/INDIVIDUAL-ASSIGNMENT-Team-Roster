@@ -11,10 +11,10 @@ export default function EditHero() {
 
   // TODO: make a call to the API to get the book data
   useEffect(() => {
-    getTeamMember(firebaseKey).then(response => {
-        setEditItem(response);
+    getTeamMember(firebaseKey).then((response) => {
+      setEditItem(response);
     });
-}, [firebaseKey]);
+  }, [firebaseKey]);
 
   // TODO: pass object to form
   return (<HeroForm obj={editItem} />);
