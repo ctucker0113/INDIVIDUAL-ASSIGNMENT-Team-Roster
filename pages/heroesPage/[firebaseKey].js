@@ -1,5 +1,5 @@
-import { useRouter } from 'next/router';
 import React, { useEffect, useState } from 'react';
+import { useRouter } from 'next/router';
 import { getTeamMember } from '../../API_Calls/heroData';
 import HeroCard from '../../components/heroCard';
 
@@ -22,7 +22,7 @@ export default function ViewHero() {
 
   return (
     <div>{heroDetails.map((hero) => (
-      <HeroCard key={hero.firebaseKey} HeroObj={book} onUpdate={getHeroDetails} />
+      <HeroCard key={hero.firebaseKey} HeroObj={hero} onUpdate={getHeroDetails} />
     ))}
     </div>
   );

@@ -3,7 +3,7 @@ import { useAuth } from '../utils/context/authContext';
 import HeroCard from '../components/heroCard';
 import { getTeam } from '../API_Calls/heroData';
 
-function showHeroes() {
+function ShowHeroes() {
   const [heroes, setHeroes] = useState([]);
 
   const { user } = useAuth();
@@ -27,4 +27,4 @@ function showHeroes() {
   );
 }
 
-export default showHeroes;
+export default ShowHeroes;
